@@ -1,0 +1,9 @@
+/.idea
+/venv
+*.png
+*.log
+*.html
+.pytest_cache
+IEDriverServer.exe
+geckodriver.exe
+conf_t2.py
